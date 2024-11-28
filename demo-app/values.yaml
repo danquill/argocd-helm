@@ -122,4 +122,4 @@ tolerations: []
 
 affinity: {}
 
-namespace: {}
+namespace: ""
